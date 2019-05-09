@@ -1,0 +1,101 @@
+2019-05-09 14:58:21,296 myunit.py[line:7] INFO ==========setUp==========
+2019-05-09 14:58:21,297 desired_caps.py[line:27] INFO ===========start APP==============
+2019-05-09 14:59:14,969 login_page.py[line:11] INFO ========Go to my homepage========
+2019-05-09 14:59:56,483 login_Tc.py[line:13] INFO ========start login========
+2019-05-09 15:00:47,064 myunit.py[line:11] INFO ==========tearDown==========
+2019-05-09 15:01:54,408 myunit.py[line:7] INFO ==========setUp==========
+2019-05-09 15:01:54,408 desired_caps.py[line:27] INFO ===========start APP==============
+2019-05-09 15:02:09,539 login_page.py[line:11] INFO ========Go to my homepage========
+2019-05-09 15:03:12,944 login_Tc.py[line:13] INFO ========start login========
+2019-05-09 15:04:25,434 common_fun.py[line:15] INFO get login_fail.png screenshots
+2019-05-09 15:04:25,434 myunit.py[line:11] INFO ==========tearDown==========
+2019-05-09 15:10:42,194 myunit.py[line:7] INFO ==========setUp==========
+2019-05-09 15:10:42,194 desired_caps.py[line:27] INFO ===========start APP==============
+2019-05-09 15:11:11,700 login_page.py[line:11] INFO ========Go to my homepage========
+2019-05-09 15:11:47,669 login_Tc.py[line:13] INFO ========start login========
+2019-05-09 15:12:33,000 baseView.py[line:72] INFO Fail Screenshot
+2019-05-09 15:12:36,042 login_Tc.py[line:22] INFO Login Fail
+2019-05-09 15:12:36,042 login_Tc.py[line:23] INFO ========testcase01 end========
+2019-05-09 15:12:36,042 myunit.py[line:11] INFO ==========tearDown==========
+2019-05-09 15:15:39,108 myunit.py[line:7] INFO ==========setUp==========
+2019-05-09 15:15:39,108 desired_caps.py[line:27] INFO ===========start APP==============
+2019-05-09 15:16:03,403 login_page.py[line:11] INFO ========Go to my homepage========
+2019-05-09 15:16:19,004 login_Tc.py[line:13] INFO ========start login========
+2019-05-09 15:17:05,059 baseView.py[line:72] INFO Fail Screenshot
+2019-05-09 15:17:16,718 login_Tc.py[line:22] INFO Login Fail
+2019-05-09 15:17:16,718 login_Tc.py[line:23] INFO ========testcase01 end========
+2019-05-09 15:17:16,718 myunit.py[line:11] INFO ==========tearDown==========
+2019-05-09 15:47:47,505 myunit.py[line:7] INFO ==========setUp==========
+2019-05-09 15:47:47,505 desired_caps.py[line:27] INFO ===========start APP==============
+2019-05-09 15:48:49,160 login_page.py[line:11] INFO ========Go to my homepage========
+2019-05-09 15:49:44,892 login_Tc.py[line:13] INFO ========start login========
+2019-05-09 15:50:29,376 baseView.py[line:72] INFO Fail Screenshot
+2019-05-09 15:50:32,203 login_Tc.py[line:22] INFO Login Fail
+2019-05-09 15:50:32,203 login_Tc.py[line:23] INFO ========testcase01 end========
+2019-05-09 15:50:32,203 myunit.py[line:11] INFO ==========tearDown==========
+2019-05-09 15:50:33,042 myunit.py[line:7] INFO ==========setUp==========
+2019-05-09 15:50:33,043 desired_caps.py[line:27] INFO ===========start APP==============
+2019-05-09 15:51:14,017 login_page.py[line:11] INFO ========Go to my homepage========
+2019-05-09 15:52:08,391 myunit.py[line:11] INFO ==========tearDown==========
+2019-05-09 15:54:31,326 myunit.py[line:7] INFO ==========setUp==========
+2019-05-09 15:54:31,326 desired_caps.py[line:25] INFO ===========start APP==============
+2019-05-09 15:54:59,060 login_page.py[line:11] INFO ========Go to my homepage========
+2019-05-09 15:55:24,424 login_Tc.py[line:28] INFO ========start login========
+2019-05-09 15:55:39,558 myunit.py[line:11] INFO ==========tearDown==========
+2019-05-09 16:11:20,585 myunit.py[line:7] INFO ==========setUp==========
+2019-05-09 16:11:20,585 desired_caps.py[line:25] INFO ===========start APP==============
+2019-05-09 16:11:47,554 login_Tc.py[line:28] INFO ========testcase02 start========
+2019-05-09 16:11:47,554 login_page.py[line:11] INFO ========Go to my homepage========
+2019-05-09 16:12:25,353 login_Tc.py[line:31] INFO ========start weixin login========
+2019-05-09 16:12:47,901 myunit.py[line:11] INFO ==========tearDown==========
+2019-05-09 16:37:09,489 myunit.py[line:7] INFO ==========setUp==========
+2019-05-09 16:37:09,489 desired_caps.py[line:25] INFO ===========start APP==============
+2019-05-09 16:37:42,303 login_Tc.py[line:28] INFO ========testcase02 start========
+2019-05-09 16:37:42,303 login_page.py[line:11] INFO ========Go to my homepage========
+2019-05-09 16:38:26,033 login_Tc.py[line:31] INFO ========start weixin login========
+2019-05-09 16:39:22,781 myunit.py[line:11] INFO ==========tearDown==========
+2019-05-09 16:42:09,468 myunit.py[line:7] INFO ==========setUp==========
+2019-05-09 16:42:09,469 desired_caps.py[line:25] INFO ===========start APP==============
+2019-05-09 16:42:38,238 login_Tc.py[line:28] INFO ========testcase02 start========
+2019-05-09 16:42:38,238 login_page.py[line:11] INFO ========Go to my homepage========
+2019-05-09 16:43:07,433 login_Tc.py[line:31] INFO ========start weixin login========
+2019-05-09 16:44:02,180 baseView.py[line:72] INFO Fail Screenshot
+2019-05-09 16:44:09,188 login_Tc.py[line:41] INFO Weixin Login Fail
+2019-05-09 16:44:09,188 login_Tc.py[line:42] INFO ========testcase02 end========
+2019-05-09 16:44:09,188 myunit.py[line:11] INFO ==========tearDown==========
+2019-05-09 17:03:31,848 myunit.py[line:7] INFO ==========setUp==========
+2019-05-09 17:03:31,848 desired_caps.py[line:25] INFO ===========start APP==============
+2019-05-09 17:03:54,399 login_Tc.py[line:11] INFO ========testcase01 start========
+2019-05-09 17:03:54,400 login_page.py[line:11] INFO ========Go to my homepage========
+2019-05-09 17:04:56,789 login_Tc.py[line:14] INFO ========start phone login========
+2019-05-09 17:05:37,913 baseView.py[line:72] INFO Fail Screenshot
+2019-05-09 17:05:44,903 login_Tc.py[line:23] INFO Phone Login Fail
+2019-05-09 17:05:44,903 login_Tc.py[line:24] INFO ========testcase01 end========
+2019-05-09 17:05:44,903 myunit.py[line:11] INFO ==========tearDown==========
+2019-05-09 17:05:46,782 myunit.py[line:7] INFO ==========setUp==========
+2019-05-09 17:05:46,782 desired_caps.py[line:25] INFO ===========start APP==============
+2019-05-09 17:06:20,342 login_Tc.py[line:28] INFO ========testcase02 start========
+2019-05-09 17:06:20,342 login_page.py[line:11] INFO ========Go to my homepage========
+2019-05-09 17:07:15,778 login_Tc.py[line:31] INFO ========start weixin login========
+2019-05-09 17:08:22,328 baseView.py[line:72] INFO Fail Screenshot
+2019-05-09 17:08:24,895 login_Tc.py[line:41] INFO Weixin Login Fail
+2019-05-09 17:08:24,895 login_Tc.py[line:42] INFO ========testcase02 end========
+2019-05-09 17:08:24,895 myunit.py[line:11] INFO ==========tearDown==========
+2019-05-09 17:20:23,616 myunit.py[line:7] INFO ==========setUp==========
+2019-05-09 17:20:23,617 desired_caps.py[line:25] INFO ===========start APP==============
+2019-05-09 17:20:51,902 login_Tc.py[line:11] INFO ========testcase01 start========
+2019-05-09 17:20:51,902 login_page.py[line:11] INFO ========Go to my homepage========
+2019-05-09 17:21:10,190 login_Tc.py[line:14] INFO ========start phone login========
+2019-05-09 17:22:04,062 baseView.py[line:72] INFO Fail Screenshot
+2019-05-09 17:22:12,074 login_Tc.py[line:23] INFO Phone Login Fail
+2019-05-09 17:22:12,074 login_Tc.py[line:24] INFO ========testcase01 end========
+2019-05-09 17:22:12,075 myunit.py[line:11] INFO ==========tearDown==========
+2019-05-09 17:22:18,577 myunit.py[line:7] INFO ==========setUp==========
+2019-05-09 17:22:18,577 desired_caps.py[line:25] INFO ===========start APP==============
+2019-05-09 17:22:51,964 login_Tc.py[line:28] INFO ========testcase02 start========
+2019-05-09 17:22:51,965 login_page.py[line:11] INFO ========Go to my homepage========
+2019-05-09 17:23:36,677 login_Tc.py[line:31] INFO ========start weixin login========
+2019-05-09 17:24:24,686 baseView.py[line:72] INFO Fail Screenshot
+2019-05-09 17:24:32,622 login_Tc.py[line:41] INFO Weixin Login Fail
+2019-05-09 17:24:32,623 login_Tc.py[line:42] INFO ========testcase02 end========
+2019-05-09 17:24:32,623 myunit.py[line:11] INFO ==========tearDown==========
